@@ -1,0 +1,14 @@
+.bi {
+  cursor: pointer;
+}
+
+.numerito {
+  color:#fff;
+  background-color: #c96;
+  font-size: 11px;
+  padding-inline: 5px;
+  border-radius: 50%;
+  text-align: center;
+  top: 23%;
+  left: 70%;
+}
