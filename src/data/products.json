@@ -1,0 +1,58 @@
+[
+    {
+      "id":"vela-01",
+      "titulo":"Fanal",
+      "descripcion":"Descripción ",
+      "imagen":"https://simonvelas.com/wp-content/uploads/2020/04/Screenshot_20200410-185036_Instagram.jpg",
+      "categoria":"Velas",
+      "precio":500
+    },
+    {
+      "id":"vela-02",
+      "titulo":"Aromatizante",
+      "descripcion":"Descripción ",
+      "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/001/090/705/products/velas-de-soja1-ab5668f0fd69ea6a0316435802122527-1024-1024.jpg",
+      "categoria":"Velas",
+      "precio":600
+    },
+    {
+      "id":"vela-03",
+      "titulo":"Flotante",
+      "descripcion":"Descripción ",
+      "imagen":"https://images.pexels.com/photos/5790065/pexels-photo-5790065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria":"Velas",
+      "precio":400
+    },
+    {
+      "id":"aromatizante-01",
+      "titulo":"Difusor",
+      "descripcion":"Descripción ",
+      "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/002/177/269/products/img_2584-difusor-santal-cedar1-030818ec1c291de00716549069530555-1024-1024.jpg",
+      "categoria":"Aromatizantes",
+      "precio":1000
+    },
+    {
+      "id":"aromatizante-02",
+      "titulo":"Esencias",
+      "descripcion":"Descripción ",
+      "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/001/460/344/products/esencia-liquida-ii1-27bbbd61823589b54816296742085374-1024-1024.jpg",
+      "categoria":"Aromatizantes",
+      "precio":300
+    },
+    {
+      "id":"textil-01",
+      "titulo":"Tapiz",
+      "descripcion":"Descripción ",
+      "imagen":"https://m.media-amazon.com/images/I/71j-kFd2uKL.jpg",
+      "categoria":"Textiles",
+      "precio":1200
+    },
+    {
+      "id":"textil-02",
+      "titulo":"Mantel",
+      "descripcion":"Descripción ",
+      "imagen":"https://i.blogs.es/cb507a/trampantojo/original.jpeg",
+      "categoria":"Textiles",
+      "precio":900
+    }
+  ]

@@ -1,0 +1,21 @@
+.card {
+    padding: 0;
+}
+
+.card-height {
+    height: 400px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #6c757d;
+}
+
+.img-fluid {
+    object-fit: cover;
+}

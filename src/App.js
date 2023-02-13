@@ -1,10 +1,20 @@
-import { MainPage } from '../src/pages/index'
+import React from 'react'
+import './App.css'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { ItemDetail, ItemListContainer, NavBar } from './components';
 
 function App() {
   return (
-    <div className="App">
-      <MainPage />
-    </div>
+    <>
+      <BrowserRouter>
+      <NavBar />
+        <Routes>
+          <Route path='/' element={<ItemListContainer />}></Route>
+          <Route path='/item/:id' element={<ItemDetail />}></Route>
+          <Route path='/category/:category' element={<ItemListContainer />}></Route>
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
 

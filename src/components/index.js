@@ -1,3 +1,7 @@
 export { NavBar } from './NavBar'
 export { Cart } from './CartWidget'
+export { Item } from './Item'
+export { ItemList } from './ItemList'
 export { ItemListContainer } from './ItemListContainer'
+export { ItemDetail } from './ItemDetail'
+export { Spinner } from './Spinner'
